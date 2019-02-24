@@ -1,6 +1,6 @@
-## The contents of my AHK library folder
+# The contents of my AHK library folder
 
-# Files I've created:
+## Files I've created:
 - Keyboardmap.ahk
 - Lynxmove.ahk
 - Monitorconfig.ahk
